@@ -1,4 +1,3 @@
-
 # Group Members
 
 1. Gitiche Emmanuel Chege
@@ -7,5 +6,6 @@
 4. Moruri Victor Kimanga
 5. Riungu Emmanuel Mugambi
 
-
 ## Key Takeways
+
+- How to merge branches
