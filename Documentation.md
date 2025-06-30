@@ -10,3 +10,4 @@
 
 - How to merge branches
 - How to create and name branches
+- How to use the project dashboard on github
