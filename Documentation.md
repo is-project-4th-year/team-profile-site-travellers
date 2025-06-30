@@ -8,6 +8,6 @@
 
 ## Key Takeways
 
-- How to merge branches
+- How to merge branches and resolve conflicts
 - How to create and name branches
 - How to use the project dashboard on github
