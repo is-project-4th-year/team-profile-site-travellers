@@ -9,3 +9,4 @@
 ## Key Takeways
 
 - How to merge branches
+- How to create and name branches
