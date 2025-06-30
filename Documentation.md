@@ -12,3 +12,4 @@
 - How to create and name branches
 - How to use the project dashboard on github
 - How to use git Rebase
+- How to create issues as well as milestones and link them
